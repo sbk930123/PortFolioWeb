@@ -1,0 +1,17 @@
+* {
+  font-family: 'SF-Pro-Display-Regular', 'AppleSDGothicNeoM';
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #eeeeee;
+  overflow-x: hidden;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
+}
+
